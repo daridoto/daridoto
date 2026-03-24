@@ -1,9 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>  
   
   # Hola, soy Darío 👋
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>
-  
   💻 Estudiante de DAM  
   ⚡ Interesado en programación, desarrollo y tecnología  
   🚀 Aprendiendo y construyendo proyectos poco a poco  
