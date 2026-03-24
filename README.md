@@ -11,6 +11,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Estadísticas
-!(https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=daridoto&show_icons=true&theme=tokyonight)
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=daridoto&layout=compact&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=daridoto&layout=compact&theme=tokyonight)
