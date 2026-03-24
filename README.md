@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>  
   
   # Hola, soy Darío 👋
-  Estudiante de DAM  
-  Interesado en programación, desarrollo y tecnología  
+  Construyendo habilidades para desarrollar soluciones reales y escalables
   Aprendiendo y construyendo proyectos poco a poco  
   
   ## Tecnologías
