@@ -6,7 +6,7 @@
   </p>
   
   # Hola, soy Darío 👋
-  Construyendo habilidades para desarrollar soluciones reales y escalables <br>
+  Construyo habilidades para desarrollar soluciones reales y escalables <br>
   Aprendiendo y construyendo proyectos poco a poco  
   
   ## Tecnologías
