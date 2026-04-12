@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>  
-
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+progreso;Aprendiendo+cada+día;Construyendo+proyectos" />
-  </p>
   
   # Hola, soy Darío 👋
   Construyo habilidades para desarrollar soluciones reales y escalables <br>
