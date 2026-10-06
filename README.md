@@ -24,9 +24,5 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
   
-  ## Estadísticas
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight)
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>  
 </div>
